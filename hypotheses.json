@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "Development of specialized RL infrastructure tools that address current technical bottlenecks will create more sustainable long-term value than domain-specific applications in the current market environment."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]

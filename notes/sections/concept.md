@@ -1,0 +1,5 @@
+This research aims to analyze the relative value creation potential between developing foundational reinforcement learning (RL) infrastructure versus building domain-specific RL applications. The study will examine key bottlenecks, market needs, and growth opportunities in both areas.
+
+On the infrastructure side, we'll evaluate the current limitations of RL training environments, simulation platforms, and development frameworks that are hindering broader adoption. This includes analyzing needs around compute efficiency, environment fidelity, reproducibility, and ease of deployment.
+
+For applications, we'll focus on three high-potential domains: algorithmic trading, healthcare operations, and industrial automation. The research will assess technical requirements, regulatory constraints, and market readiness in each vertical to determine where RL solutions can create the most immediate value.
